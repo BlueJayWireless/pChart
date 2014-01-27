@@ -1,0 +1,7 @@
+{
+    "name": "BlueJayWireless/pchart",
+    "type": "library",
+    "autoload": {
+        "classmap": ["class/"]
+    }
+}
